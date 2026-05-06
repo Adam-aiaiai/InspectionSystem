@@ -1,0 +1,13 @@
+.root {
+    -fx-font-family: "Avenir Next", "Arial", sans-serif;
+    -fx-base: #f7f8fb;
+}
+
+.button {
+    -fx-background-radius: 6;
+    -fx-padding: 7 12;
+}
+
+.label {
+    -fx-text-fill: #1f2933;
+}
